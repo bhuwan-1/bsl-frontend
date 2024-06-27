@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  @apply bg-body;
+  font-family: 'Roboto'
+}
+
+/* video {
+  -webkit-transform: scaleX(-1);
+  transform: scaleX(-1);
+} */
